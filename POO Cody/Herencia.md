@@ -34,3 +34,14 @@ class Perro(Animal):
 - **Clase padre**: Es la clase de la que heredan otras clases.
 - **Clase hija**: Es la clase que hereda de otra clase.
 - **Super**: Es la clase padre de la clase actual.
+
+## Cuando usar herencia
+
+La herencia no se debe usar para todo, debemos de implementarla cuando existe una relacion denominada ***"es un"*** o **"es una"**, es decir, cuando una clase es una especializacion de otra.
+
+Ejemplo:
+
+- La clase Perro ***es un*** Animal, por lo tanto, Perro hereda de Animal.
+- La clase Perro y Gato ***son mascotas***, por lo tanto, Perro y Gato heredan de Mascota.
+
+Si entre las clases no existe una relacion de ***"es un"*** o **"es una"**, entonces no debemos de usar herencia.
