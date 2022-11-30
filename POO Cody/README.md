@@ -7,10 +7,10 @@
 
 ## Temas
 
-- [Clases y Objetos](Clases%20y%20Objetos.ipynb)
-- [Herencia](Herencia.ipynb)
-- [Abstracción y Encapsulación](Abstraccion%20y%20Encapsulacion.ipynb)
-- [Polimorfismo](Plimorfismo.ipynb)
+- [Clases y Objetos](Clases%20y%20Objetos.md)
+- [Herencia](Herencia.md)
+- [Abstracción y Encapsulación](Abstraccion%20y%20Encapsulacion.md)
+- [Polimorfismo](Polimorfismo.md)
 
 ## ¿Que es paradigma de programación?
 
